@@ -1,0 +1,6 @@
+{
+  "passenger_port": 8505,
+  "admin_port": 8506,
+  "passenger_url": "http://localhost:8505",
+  "admin_url": "http://localhost:8506"
+}

@@ -1,0 +1,264 @@
+station_id,station_name,route_id,filename,record_count
+AE01,Delhi Aerocity,Airport Express,AE01_Delhi_Aerocity.csv,3648
+AE02,Dhaula Kuan,Airport Express,AE02_Dhaula_Kuan.csv,3648
+AE03,Indira Gandhi International Airport,Airport Express,AE03_Indira_Gandhi_International_Airport.csv,3648
+AE04,New Delhi Airport Express,Airport Express,AE04_New_Delhi_Airport_Express.csv,3648
+AE05,Shivaji Stadium,Airport Express,AE05_Shivaji_Stadium.csv,3648
+AE06,Yashobhoomi Dwarka Sector 25 AE,Airport Express,AE06_Yashobhoomi_Dwarka_Sector_25_AE.csv,3648
+AE07,Dwarka Sector 21 AE,Airport Express,AE07_Dwarka_Sector_21_AE.csv,3648
+BL01,Akshardham,Blue Line,BL01_Akshardham.csv,3648
+BL02,Barakhamba Road,Blue Line,BL02_Barakhamba_Road.csv,3648
+BL03,Botanical Garden,Blue Line,BL03_Botanical_Garden.csv,3648
+BL04,Dwarka,Blue Line,BL04_Dwarka.csv,3648
+BL05,Dwarka Mor,Blue Line,BL05_Dwarka_Mor.csv,3648
+BL06,Janak Puri East,Blue Line,BL06_Janak_Puri_East.csv,3648
+BL07,Janak Puri West,Blue Line,BL07_Janak_Puri_West.csv,3648
+BL08,Jhandewalan,Blue Line,BL08_Jhandewalan.csv,3648
+BL09,Karol Bagh,Blue Line,BL09_Karol_Bagh.csv,3648
+BL10,Kirti Nagar,Blue Line,BL10_Kirti_Nagar.csv,3648
+BL11,Mayur Vihar Phase1,Blue Line,BL11_Mayur_Vihar_Phase1.csv,3648
+BL12,Moti Nagar,Blue Line,BL12_Moti_Nagar.csv,3648
+BL13,Nawada,Blue Line,BL13_Nawada.csv,3648
+BL14,New Ashok Nagar,Blue Line,BL14_New_Ashok_Nagar.csv,3648
+BL15,Noida City Centre,Blue Line,BL15_Noida_City_Centre.csv,3648
+BL16,Noida Sector 15,Blue Line,BL16_Noida_Sector_15.csv,3648
+BL17,Noida Sector 16,Blue Line,BL17_Noida_Sector_16.csv,3648
+BL18,Noida Sector 18,Blue Line,BL18_Noida_Sector_18.csv,3648
+BL19,Patel Nagar,Blue Line,BL19_Patel_Nagar.csv,3648
+BL20,Pragati Maidan,Blue Line,BL20_Pragati_Maidan.csv,3648
+BL21,RK Ashram Marg,Blue Line,BL21_RK_Ashram_Marg.csv,3648
+BL22,Rajendra Place,Blue Line,BL22_Rajendra_Place.csv,3648
+BL23,Rajouri Garden,Blue Line,BL23_Rajouri_Garden.csv,3648
+BL24,Ramesh Nagar,Blue Line,BL24_Ramesh_Nagar.csv,3648
+BL25,Shadipur,Blue Line,BL25_Shadipur.csv,3648
+BL26,Subhash Nagar,Blue Line,BL26_Subhash_Nagar.csv,3648
+BL27,Tagore Garden,Blue Line,BL27_Tagore_Garden.csv,3648
+BL28,Tilak Nagar,Blue Line,BL28_Tilak_Nagar.csv,3648
+BL29,Uttam Nagar East,Blue Line,BL29_Uttam_Nagar_East.csv,3648
+BL30,Uttam Nagar West,Blue Line,BL30_Uttam_Nagar_West.csv,3648
+BL31,Anand Vihar ISBT,Blue Line,BL31_Anand_Vihar_ISBT.csv,3648
+BL32,Karkardooma,Blue Line,BL32_Karkardooma.csv,3648
+BL33,Kaushambi,Blue Line,BL33_Kaushambi.csv,3648
+BL34,Laxmi Nagar,Blue Line,BL34_Laxmi_Nagar.csv,3648
+BL35,Preet Vihar,Blue Line,BL35_Preet_Vihar.csv,3648
+BL36,Vaishali,Blue Line,BL36_Vaishali.csv,3648
+BL37,Anand Vihar,Blue Line,BL37_Anand_Vihar.csv,3648
+BL38,Dwarka Sector 8,Blue Line,BL38_Dwarka_Sector_8.csv,3648
+BL39,Dwarka Sector 9,Blue Line,BL39_Dwarka_Sector_9.csv,3648
+BL40,Dwarka Sector 10,Blue Line,BL40_Dwarka_Sector_10.csv,3648
+BL41,Dwarka Sector 11,Blue Line,BL41_Dwarka_Sector_11.csv,3648
+BL42,Dwarka Sector 12,Blue Line,BL42_Dwarka_Sector_12.csv,3648
+BL43,Dwarka Sector 13,Blue Line,BL43_Dwarka_Sector_13.csv,3648
+BL44,Dwarka Sector 14,Blue Line,BL44_Dwarka_Sector_14.csv,3648
+BL45,Dwarka Sector 21,Blue Line,BL45_Dwarka_Sector_21.csv,3648
+BL46,Golf Course,Blue Line,BL46_Golf_Course.csv,3648
+BL47,Indraprastha,Blue Line,BL47_Indraprastha.csv,3648
+BL48,Mandi House,Blue Line,BL48_Mandi_House.csv,3648
+BL49,Mayur Vihar Extension,Blue Line,BL49_Mayur_Vihar_Extension.csv,3648
+BL50,Nirman Vihar,Blue Line,BL50_Nirman_Vihar.csv,3648
+BL51,Noida Electronic City,Blue Line,BL51_Noida_Electronic_City.csv,3648
+BL52,Noida Sector 34,Blue Line,BL52_Noida_Sector_34.csv,3648
+BL53,Noida Sector 52,Blue Line,BL53_Noida_Sector_52.csv,3648
+BL54,Noida Sector 59,Blue Line,BL54_Noida_Sector_59.csv,3648
+BL55,Noida Sector 61,Blue Line,BL55_Noida_Sector_61.csv,3648
+BL56,Noida Sector 62,Blue Line,BL56_Noida_Sector_62.csv,3648
+BL57,Supreme Court,Blue Line,BL57_Supreme_Court.csv,3648
+BL58,Yamuna Bank,Blue Line,BL58_Yamuna_Bank.csv,3648
+BL59,Yashobhoomi Dwarka Sector 25,Blue Line,BL59_Yashobhoomi_Dwarka_Sector_25.csv,3648
+GR01,Mundka,Green Line,GR01_Mundka.csv,3648
+GR02,Nangloi,Green Line,GR02_Nangloi.csv,3648
+GR03,Peera Garhi,Green Line,GR03_Peera_Garhi.csv,3648
+GR04,Ashok Park Main,Green Line,GR04_Ashok_Park_Main.csv,3648
+GR05,Bahadurgarh City,Green Line,GR05_Bahadurgarh_City.csv,3648
+GR06,Brigadier Hoshiyar Singh,Green Line,GR06_Brigadier_Hoshiyar_Singh.csv,3648
+GR07,Ghevra Metro Station,Green Line,GR07_Ghevra_Metro_Station.csv,3648
+GR08,Madipur,Green Line,GR08_Madipur.csv,3648
+GR09,Maharaja Surajmal Stadium,Green Line,GR09_Maharaja_Surajmal_Stadium.csv,3648
+GR10,Mundka Industrial Area,Green Line,GR10_Mundka_Industrial_Area.csv,3648
+GR11,Nangloi Railway Station,Green Line,GR11_Nangloi_Railway_Station.csv,3648
+GR12,Pandit Shree Ram Sharma,Green Line,GR12_Pandit_Shree_Ram_Sharma.csv,3648
+GR13,Paschim Vihar East,Green Line,GR13_Paschim_Vihar_East.csv,3648
+GR14,Paschim Vihar West,Green Line,GR14_Paschim_Vihar_West.csv,3648
+GR15,Punjabi Bagh,Green Line,GR15_Punjabi_Bagh.csv,3648
+GR16,Punjabi Bagh West,Green Line,GR16_Punjabi_Bagh_West.csv,3648
+GR17,Rajdhani Park,Green Line,GR17_Rajdhani_Park.csv,3648
+GR18,Satguru Ram Singh Marg,Green Line,GR18_Satguru_Ram_Singh_Marg.csv,3648
+GR19,Shivaji Park,Green Line,GR19_Shivaji_Park.csv,3648
+GR20,Tikri Border,Green Line,GR20_Tikri_Border.csv,3648
+GR21,Tikri Kalan,Green Line,GR21_Tikri_Kalan.csv,3648
+GR22,Udyog Nagar,Green Line,GR22_Udyog_Nagar.csv,3648
+GY01,Dhansa Bus Stand,Grey Line,GY01_Dhansa_Bus_Stand.csv,3648
+GY02,Dwarka Grey,Grey Line,GY02_Dwarka_Grey.csv,3648
+GY03,Najafgarh,Grey Line,GY03_Najafgarh.csv,3648
+GY04,Nangli,Grey Line,GY04_Nangli.csv,3648
+MG01,Botanical Garden Magenta,Magenta Line,MG01_Botanical_Garden_Magenta.csv,3648
+MG02,Chirag Delhi,Magenta Line,MG02_Chirag_Delhi.csv,3648
+MG03,Dabri Mor Janakpuri South,Magenta Line,MG03_Dabri_Mor_Janakpuri_South.csv,3648
+MG04,Dashrath Puri,Magenta Line,MG04_Dashrath_Puri.csv,3648
+MG05,Greater Kailash,Magenta Line,MG05_Greater_Kailash.csv,3648
+MG06,Hauz Khas Magenta,Magenta Line,MG06_Hauz_Khas_Magenta.csv,3648
+MG07,IIT,Magenta Line,MG07_IIT.csv,3648
+MG08,Jamia Millia Islamia,Magenta Line,MG08_Jamia_Millia_Islamia.csv,3648
+MG09,Janakpuri West Magenta,Magenta Line,MG09_Janakpuri_West_Magenta.csv,3648
+MG10,Jasola Vihar Shaheen Bagh,Magenta Line,MG10_Jasola_Vihar_Shaheen_Bagh.csv,3648
+MG11,Kalkaji Mandir Magenta,Magenta Line,MG11_Kalkaji_Mandir_Magenta.csv,3648
+MG12,Kalindi Kunj,Magenta Line,MG12_Kalindi_Kunj.csv,3648
+MG13,Munirka,Magenta Line,MG13_Munirka.csv,3648
+MG14,Nehru Enclave,Magenta Line,MG14_Nehru_Enclave.csv,3648
+MG15,Okhla Bird Sanctuary,Magenta Line,MG15_Okhla_Bird_Sanctuary.csv,3648
+MG16,Okhla NSIC,Magenta Line,MG16_Okhla_NSIC.csv,3648
+MG17,Okhla Vihar,Magenta Line,MG17_Okhla_Vihar.csv,3648
+MG18,Palam,Magenta Line,MG18_Palam.csv,3648
+MG19,Panchsheel Park,Magenta Line,MG19_Panchsheel_Park.csv,3648
+MG20,R K Puram,Magenta Line,MG20_R_K_Puram.csv,3648
+MG21,Sadar Bazaar Cantonment,Magenta Line,MG21_Sadar_Bazaar_Cantonment.csv,3648
+MG22,Sarojini Nagar,Magenta Line,MG22_Sarojini_Nagar.csv,3648
+MG23,Shankar Vihar,Magenta Line,MG23_Shankar_Vihar.csv,3648
+MG24,Sukhdev Vihar,Magenta Line,MG24_Sukhdev_Vihar.csv,3648
+MG25,Terminal 1 IGI Airport,Magenta Line,MG25_Terminal_1_IGI_Airport.csv,3648
+MG26,Vasant Vihar,Magenta Line,MG26_Vasant_Vihar.csv,3648
+MG27,Bhikaji Cama Place,Magenta Line,MG27_Bhikaji_Cama_Place.csv,3648
+PK01,Anand Vihar Pink,Pink Line,PK01_Anand_Vihar_Pink.csv,3648
+PK02,Ashram,Pink Line,PK02_Ashram.csv,3648
+PK03,Azadpur Pink,Pink Line,PK03_Azadpur_Pink.csv,3648
+PK04,Delhi Cantonment,Pink Line,PK04_Delhi_Cantonment.csv,3648
+PK05,Durgabai Deshmukh South Campus,Pink Line,PK05_Durgabai_Deshmukh_South_Campus.csv,3648
+PK06,East Azad Nagar,Pink Line,PK06_East_Azad_Nagar.csv,3648
+PK07,East Vinod Nagar Mayur Vihar II,Pink Line,PK07_East_Vinod_Nagar_Mayur_Vihar_II.csv,3648
+PK08,ESI Basaidarapur,Pink Line,PK08_ESI_Basaidarapur.csv,3648
+PK09,Gokulpuri,Pink Line,PK09_Gokulpuri.csv,3648
+PK10,IP Extension,Pink Line,PK10_IP_Extension.csv,3648
+PK11,Jaffrabad,Pink Line,PK11_Jaffrabad.csv,3648
+PK12,Johri Enclave,Pink Line,PK12_Johri_Enclave.csv,3648
+PK13,Karkarduma Pink,Pink Line,PK13_Karkarduma_Pink.csv,3648
+PK14,Karkarduma Court,Pink Line,PK14_Karkarduma_Court.csv,3648
+PK15,Krishna Nagar,Pink Line,PK15_Krishna_Nagar.csv,3648
+PK16,Lajpat Nagar Pink,Pink Line,PK16_Lajpat_Nagar_Pink.csv,3648
+PK17,Majlis Park,Pink Line,PK17_Majlis_Park.csv,3648
+PK18,Mandawali West Vinod Nagar,Pink Line,PK18_Mandawali_West_Vinod_Nagar.csv,3648
+PK19,Mansarovar Park Pink,Pink Line,PK19_Mansarovar_Park_Pink.csv,3648
+PK20,Maujpur Babarpur,Pink Line,PK20_Maujpur_Babarpur.csv,3648
+PK21,Mayapuri,Pink Line,PK21_Mayapuri.csv,3648
+PK22,Mayur Vihar I Pink,Pink Line,PK22_Mayur_Vihar_I_Pink.csv,3648
+PK23,Naraina Vihar,Pink Line,PK23_Naraina_Vihar.csv,3648
+PK24,Netaji Subhash Place Pink,Pink Line,PK24_Netaji_Subhash_Place_Pink.csv,3648
+PK25,Punjabi Bagh West Pink,Pink Line,PK25_Punjabi_Bagh_West_Pink.csv,3648
+PK26,Rajouri Garden Pink,Pink Line,PK26_Rajouri_Garden_Pink.csv,3648
+PK27,Sarai Kale Khan Nizamuddin,Pink Line,PK27_Sarai_Kale_Khan_Nizamuddin.csv,3648
+PK28,Shakurpur,Pink Line,PK28_Shakurpur.csv,3648
+PK29,Shalimar Bagh,Pink Line,PK29_Shalimar_Bagh.csv,3648
+PK30,Shiv Vihar,Pink Line,PK30_Shiv_Vihar.csv,3648
+PK31,Sir M Vishweshwaraiah Moti Bagh,Pink Line,PK31_Sir_M_Vishweshwaraiah_Moti_Bagh.csv,3648
+PK32,South Extension,Pink Line,PK32_South_Extension.csv,3648
+PK33,Shree Ram Mandir Mayur Vihar,Pink Line,PK33_Shree_Ram_Mandir_Mayur_Vihar.csv,3648
+PK34,Trilokpuri Sanjay Lake,Pink Line,PK34_Trilokpuri_Sanjay_Lake.csv,3648
+PK35,Vinobapuri,Pink Line,PK35_Vinobapuri.csv,3648
+PK36,Welcome Pink,Pink Line,PK36_Welcome_Pink.csv,3648
+PK37,Bhikaji Cama Place Pink,Pink Line,PK37_Bhikaji_Cama_Place_Pink.csv,3648
+RD01,Dilshad Garden,Red Line,RD01_Dilshad_Garden.csv,3648
+RD02,Jhilmil,Red Line,RD02_Jhilmil.csv,3648
+RD03,Kashmere Gate,Red Line,RD03_Kashmere_Gate.csv,3648
+RD04,Netaji Subhash Place,Red Line,RD04_Netaji_Subhash_Place.csv,3648
+RD05,Pitampura,Red Line,RD05_Pitampura.csv,3648
+RD06,Pratap Nagar,Red Line,RD06_Pratap_Nagar.csv,3648
+RD07,Rithala,Red Line,RD07_Rithala.csv,3648
+RD08,Rohini East,Red Line,RD08_Rohini_East.csv,3648
+RD09,Rohini West,Red Line,RD09_Rohini_West.csv,3648
+RD10,Seelampur,Red Line,RD10_Seelampur.csv,3648
+RD11,Shahdara,Red Line,RD11_Shahdara.csv,3648
+RD12,Shastri Park,Red Line,RD12_Shastri_Park.csv,3648
+RD13,Tis Hazari,Red Line,RD13_Tis_Hazari.csv,3648
+RD14,Welcome,Red Line,RD14_Welcome.csv,3648
+RD15,Arthala,Red Line,RD15_Arthala.csv,3648
+RD16,Inderlok,Red Line,RD16_Inderlok.csv,3648
+RD17,Kanhaiya Nagar,Red Line,RD17_Kanhaiya_Nagar.csv,3648
+RD18,Keshav Puram,Red Line,RD18_Keshav_Puram.csv,3648
+RD19,Kohat Enclave,Red Line,RD19_Kohat_Enclave.csv,3648
+RD20,Madhuban Chowk,Red Line,RD20_Madhuban_Chowk.csv,3648
+RD21,Major Mohit Sharma,Red Line,RD21_Major_Mohit_Sharma.csv,3648
+RD22,Mansarovar Park,Red Line,RD22_Mansarovar_Park.csv,3648
+RD23,Mohan Nagar,Red Line,RD23_Mohan_Nagar.csv,3648
+RD24,Pul Bangash,Red Line,RD24_Pul_Bangash.csv,3648
+RD25,Raj Bagh,Red Line,RD25_Raj_Bagh.csv,3648
+RD26,Rohini Sector 18-19,Red Line,RD26_Rohini_Sector_18_19.csv,3648
+RD27,Shaheed Nagar,Red Line,RD27_Shaheed_Nagar.csv,3648
+RD28,Shaheed Sthal New Bus Adda,Red Line,RD28_Shaheed_Sthal_New_Bus_Adda.csv,3648
+RD29,Shastri Nagar,Red Line,RD29_Shastri_Nagar.csv,3648
+RD30,Shyam Park,Red Line,RD30_Shyam_Park.csv,3648
+VL01,Badarpur,Violet Line,VL01_Badarpur.csv,3648
+VL02,Central Secretariat N,Violet Line,VL02_Central_Secretariat_N.csv,3648
+VL03,Gobind Puri,Violet Line,VL03_Gobind_Puri.csv,3648
+VL04,Green Park,Violet Line,VL04_Green_Park.csv,3648
+VL05,Janpath,Violet Line,VL05_Janpath.csv,3648
+VL06,Lajpat Nagar,Violet Line,VL06_Lajpat_Nagar.csv,3648
+VL07,Nehru Place,Violet Line,VL07_Nehru_Place.csv,3648
+VL08,Tughlakabad,Violet Line,VL08_Tughlakabad.csv,3648
+VL09,Badkhal Mor,Violet Line,VL09_Badkhal_Mor.csv,3648
+VL10,Bata Chowk,Violet Line,VL10_Bata_Chowk.csv,3648
+VL11,Central Secretariat Violet,Violet Line,VL11_Central_Secretariat_Violet.csv,3648
+VL12,Delhi Gate,Violet Line,VL12_Delhi_Gate.csv,3648
+VL13,Escorts Mujesar,Violet Line,VL13_Escorts_Mujesar.csv,3648
+VL14,Harkesh Nagar Okhla,Violet Line,VL14_Harkesh_Nagar_Okhla.csv,3648
+VL15,ITO,Violet Line,VL15_ITO.csv,3648
+VL16,Jama Masjid,Violet Line,VL16_Jama_Masjid.csv,3648
+VL17,Jangpura,Violet Line,VL17_Jangpura.csv,3648
+VL18,Jasola Apollo,Violet Line,VL18_Jasola_Apollo.csv,3648
+VL19,Jawaharlal Nehru Stadium,Violet Line,VL19_Jawaharlal_Nehru_Stadium.csv,3648
+VL20,Kailash Colony,Violet Line,VL20_Kailash_Colony.csv,3648
+VL21,Kalkaji Mandir,Violet Line,VL21_Kalkaji_Mandir.csv,3648
+VL22,Khan Market,Violet Line,VL22_Khan_Market.csv,3648
+VL23,Lal Qila,Violet Line,VL23_Lal_Qila.csv,3648
+VL24,Mewla Maharajpur,Violet Line,VL24_Mewla_Maharajpur.csv,3648
+VL25,Mohan Estate,Violet Line,VL25_Mohan_Estate.csv,3648
+VL26,Moolchand,Violet Line,VL26_Moolchand.csv,3648
+VL27,Neelam Chowk Ajronda,Violet Line,VL27_Neelam_Chowk_Ajronda.csv,3648
+VL28,NHPC Chowk,Violet Line,VL28_NHPC_Chowk.csv,3648
+VL29,Old Faridabad,Violet Line,VL29_Old_Faridabad.csv,3648
+VL30,Raja Nahar Singh,Violet Line,VL30_Raja_Nahar_Singh.csv,3648
+VL31,Sant Surdas Sihi,Violet Line,VL31_Sant_Surdas_Sihi.csv,3648
+VL32,Sarai,Violet Line,VL32_Sarai.csv,3648
+VL33,Sarita Vihar,Violet Line,VL33_Sarita_Vihar.csv,3648
+VL34,Sector 28 Faridabad,Violet Line,VL34_Sector_28_Faridabad.csv,3648
+YL01,Adarsh Nagar,Yellow Line,YL01_Adarsh_Nagar.csv,3648
+YL02,AIIMS,Yellow Line,YL02_AIIMS.csv,3648
+YL03,Azadpur,Yellow Line,YL03_Azadpur.csv,3648
+YL04,Central Secretariat,Yellow Line,YL04_Central_Secretariat.csv,3648
+YL05,Chandni Chowk,Yellow Line,YL05_Chandni_Chowk.csv,3648
+YL06,Chawri Bazar,Yellow Line,YL06_Chawri_Bazar.csv,3648
+YL07,Chhatarpur,Yellow Line,YL07_Chhatarpur.csv,3648
+YL08,GTB Nagar,Yellow Line,YL08_GTB_Nagar.csv,3648
+YL09,Guru Dronacharya,Yellow Line,YL09_Guru_Dronacharya.csv,3648
+YL10,Hauz Khas,Yellow Line,YL10_Hauz_Khas.csv,3648
+YL11,Huda City Center,Yellow Line,YL11_Huda_City_Center.csv,3648
+YL12,IFFCO Chowk,Yellow Line,YL12_IFFCO_Chowk.csv,3648
+YL13,INA,Yellow Line,YL13_INA.csv,3648
+YL14,Jahangirpuri,Yellow Line,YL14_Jahangirpuri.csv,3648
+YL15,Kashmere Gate Metro,Yellow Line,YL15_Kashmere_Gate_Metro.csv,3648
+YL16,Malaviya Nagar,Yellow Line,YL16_Malaviya_Nagar.csv,3648
+YL17,MG Road,Yellow Line,YL17_MG_Road.csv,3648
+YL18,New Delhi,Yellow Line,YL18_New_Delhi.csv,3648
+YL19,Patel Chowk,Yellow Line,YL19_Patel_Chowk.csv,3648
+YL20,Rajiv Chowk,Yellow Line,YL20_Rajiv_Chowk.csv,3648
+YL21,Saket,Yellow Line,YL21_Saket.csv,3648
+YL22,Sikandarpur,Yellow Line,YL22_Sikandarpur.csv,3648
+YL23,Vishwavidyalaya,Yellow Line,YL23_Vishwavidyalaya.csv,3648
+YL24,Arjan Garh,Yellow Line,YL24_Arjan_Garh.csv,3648
+YL25,Civil Lines,Yellow Line,YL25_Civil_Lines.csv,3648
+YL26,Dilli Haat INA,Yellow Line,YL26_Dilli_Haat_INA.csv,3648
+YL27,Ghitorni,Yellow Line,YL27_Ghitorni.csv,3648
+YL28,Green Park,Yellow Line,YL28_Green_Park.csv,3648
+YL29,Guru Tegh Bahadur Nagar,Yellow Line,YL29_Guru_Tegh_Bahadur_Nagar.csv,3648
+YL30,Haiderpur Badli Mor,Yellow Line,YL30_Haiderpur_Badli_Mor.csv,3648
+YL31,Jor Bagh,Yellow Line,YL31_Jor_Bagh.csv,3648
+YL32,Lok Kalyan Marg,Yellow Line,YL32_Lok_Kalyan_Marg.csv,3648
+YL33,Malviya Nagar,Yellow Line,YL33_Malviya_Nagar.csv,3648
+YL34,Millennium City Centre Gurugram,Yellow Line,YL34_Millennium_City_Centre_Gurugram.csv,3648
+YL35,Model Town,Yellow Line,YL35_Model_Town.csv,3648
+YL36,Qutab Minar,Yellow Line,YL36_Qutab_Minar.csv,3648
+YL37,Rohini Sector 18-19,Yellow Line,YL37_Rohini_Sector_18_19.csv,3648
+YL38,Samaypur Badli,Yellow Line,YL38_Samaypur_Badli.csv,3648
+YL39,Seva Teerth,Yellow Line,YL39_Seva_Teerth.csv,3648
+YL40,Sikanderpur,Yellow Line,YL40_Sikanderpur.csv,3648
+YL41,Sultanpur,Yellow Line,YL41_Sultanpur.csv,3648
+YL42,Vidhan Sabha,Yellow Line,YL42_Vidhan_Sabha.csv,3648
+YL43,Rohini West Yellow,Yellow Line,YL43_Rohini_West_Yellow.csv,3648
