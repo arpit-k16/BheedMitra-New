@@ -188,23 +188,11 @@ npm run dev
 
 ---
 
-## 👥 Team
-
-- Arpit Kumar  
-- Raj Kumar  
-- Ritik Kumar  
-
-Team No. 54  
-School of Computer Science Engineering and Technology  
-Bennett University
-
----
 
 ## 📌 Status
 
 Current version: Prototype  
-DMRC-style system implemented  
-MTA real data integration in progress  
+DMRC system implemented  
 Multi-city version under development
 
 ---
